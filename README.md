@@ -40,3 +40,6 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente de desenvolvimento seguiremos com o SQLite pela facilidade do ambiente.
 
 ### Diagrama ERD
+
+![image](https://github.com/brunnolink/Sistema-de-evento/assets/142161094/304f91dc-0f6b-49e1-b866-d245dcdddc1e)
+
