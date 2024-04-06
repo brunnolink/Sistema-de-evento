@@ -6,5 +6,7 @@ import rocketseat.com.passin.domain.checkin.CheckIn;
 import java.util.Optional;
 
 public interface CheckinRepository extends JpaRepository<CheckIn,Integer> {
-    Optional<CheckIn> findbyAttendeeId(String attendeeId);
+    Optional<CheckIn> findByAttendeeId(String attendeeId);
+
+
 }

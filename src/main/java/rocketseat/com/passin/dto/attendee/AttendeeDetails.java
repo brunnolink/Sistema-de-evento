@@ -1,4 +1,4 @@
-package rocketseat.com.passin.dto.event.attendee;
+package rocketseat.com.passin.dto.attendee;
 
 import java.time.LocalDateTime;
 
