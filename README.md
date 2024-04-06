@@ -41,5 +41,6 @@ Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente 
 
 ### Diagrama ERD
 
-![image](https://github.com/brunnolink/Sistema-de-evento/assets/142161094/304f91dc-0f6b-49e1-b866-d245dcdddc1e)
+![image](https://github.com/brunnolink/Sistema-de-evento/assets/142161094/d5e212aa-4c83-4daf-9fc5-ca5f1af849c6)
+
 
