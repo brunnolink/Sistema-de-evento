@@ -31,13 +31,10 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 - [ ]  O check-in no evento será realizado através de um QRCode;
 
-## Especificações da API
-
-[Swagger UI](https://nlw-unite-nodejs.onrender.com/docs/static/index.html)
 
 ## Banco de dados
 
-Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente de desenvolvimento seguiremos com o SQLite pela facilidade do ambiente.
+Nessa aplicação utilizei o banco de dados relacional (SQL), SQLite pela facilidade do ambiente.
 
 ### Diagrama ERD
 
